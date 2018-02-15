@@ -1,11 +1,11 @@
 # PeaceMath
-Experimental branch; I am using writing all changes to indigo_class and indigo
-all data files should be placed into a folder nameed using the numerical value under data_files i.e data_files\111 
+Experimental branch; I am  writing all changes to indigo_class and indigo,
+all data files should be placed into a folder nameed using the numerical value under data_files i.e data_files\111. 
 as a fallback indigo will look its root folder for files
 
 **A GUI for the ordinary differential equation model of the Sustainable Peace Map**
 
-coded in Python 3.4.1 with Tkinter (I experimenting in Python 3.6.4)
+coded in Python 3.4.1 with Tkinter (I am experimenting in Python 3.6.4)
 
 **MATHEMATICAL MODEL**
 Liebovitch, LS, Coleman PT, Futran D, Lee D, Lichter T, Burgess N, Maksumov D, and Ripla C. (in press). Modeling the dynamics of sustainable peace. In U. Strawinska-Zanko and L. S. Liebovitch (Eds.), Mathematical Modeling of Social Relationships, New York, NY, Springer.
