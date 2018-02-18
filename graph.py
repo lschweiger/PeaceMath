@@ -8,6 +8,7 @@ Created on Sat Feb 17 12:04:06 2018
 import data
 from indigoclass_V_3efix import *
 from indigo_V_3efix import *
+import matplotlib.pyplot as plt
 rang=100
 storev=[0] * rang
 storec=[0] * rang
@@ -23,6 +24,8 @@ class CG:
             zzz.recalculate(pass_data)
             #App.sumpn(pass_data) runs the sumpn from indigoclass
             App.sumpn(pass_data)
+            #print(pass_data.avgneg)
+            #print(pass_data.avgpos)
             #stores values of every run, so it can be used in graphing
             storec[i]=pass_data.jvalue
             storev[i]=pass_data.avg
@@ -33,3 +36,7 @@ class CG:
                 zzz.resetIC()
                 pass_data.jvalue += 0.01
            
+class plot:
+    def plot(x,y):
+       plt.plot(x,y)
+       plt.show()
