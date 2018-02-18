@@ -495,7 +495,7 @@ class App:
 #summing postive and negtive into two seperate arrays  
 #   pass_data.negindex/posindex are not needed
 # to excute run App.sumpn(pass_data)        
- def sumpn(pass_data):
+    def sumpn(pass_data):
         negkeys={} # will be used for get the keys to be used in the summing
         poskeys={}
         pass_data.avg=0
@@ -527,6 +527,3 @@ class App:
         pass_data.avg=pass_data.avgpos-pass_data.avgneg
         pass_data.avgpos=0
         pass_data.avgneg=0
-
-        # sum of positive and negative values    
-        pass_data.avg=pass_data.avgpos-pass_data.avgneg
