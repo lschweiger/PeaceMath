@@ -250,8 +250,8 @@ t=[0. for i in range(numdata)]
 z=np.array([ica for i in range (numdata)])
 #intial holding values 
 hold=0
-jfix=2
-jvalue=1
+jfix=3
+jvalue=0
 #READY TO PASS ON DATA----------------------------------------------------------
 #wrap parameters to pass into function 
 pass_data.numdata=numdata
