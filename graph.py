@@ -9,7 +9,7 @@ import data
 from indigoclass_V_3efix import *
 from indigo_V_3efix import *
 import matplotlib.pyplot as plt
-rang=100
+rang=1
 storev=[0] * rang
 storec=[0] * rang
 
@@ -17,8 +17,10 @@ class CG:
     def __init__(self):
         self.data = data
     def loop(pass_data):
+        pass_data.hold=1
         pass_data.jvalue = 0.0
         pass_data.jfix=3
+        
         for i in range(rang):
             #zzz.recalculate(pass_data) make the gui recalculate 
             zzz.recalculate(pass_data)
