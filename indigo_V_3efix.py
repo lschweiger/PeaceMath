@@ -252,7 +252,7 @@ numdata=30000
 t=[0. for i in range(numdata)]
 z=np.array([ica for i in range (numdata)])
 #intial holding values 
-hold=1
+hold=0
 jfix=3
 jvalue=.6
 #READY TO PASS ON DATA----------------------------------------------------------
@@ -288,8 +288,6 @@ pass_data.btextbxydata=btextbxydata
 # needed for sumpn pass_data.posindex/negindex are not needed
 #pass_data.negindex=[]
 #pass_data.posindex=[]
-pass_data.negfin={}
-pass_data.posfin={}
 pass_data.negfin={}
 pass_data.posfin={}
 pass_data.sumneg=0
