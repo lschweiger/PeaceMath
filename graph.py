@@ -9,7 +9,7 @@ import data
 from indigoclass_V_3efix import *
 from indigo_V_3efix import *
 import matplotlib.pyplot as plt
-rang=1
+rang=100
 storev=[0] * rang
 storec=[0] * rang
 
