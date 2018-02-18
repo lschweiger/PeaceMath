@@ -514,4 +514,5 @@ class App:
         for j in range(0,len(poskeys)):
             pass_data.sumpos+=pass_data.posfin[poskeys[j]]
             pass_data.avgpos=(pass_data.sumpos/len(poskeys))
-        pass_data.avg=pass_data.avgpos+pass_data.avgneg
+            pass_data.avg=pass_data.avgpos-pass_data.avgneg
+            
