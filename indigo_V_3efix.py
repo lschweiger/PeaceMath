@@ -19,6 +19,7 @@ from indigoclass_V_3efix import * #import the FUNCTIONS from the CLASSES
 # from boxesmap3_1 import *
 #import for os detction and directory detection
 import os,sys
+#from graph import *
 # added if statment to locate files in ./data_files/"input number"/ will fall back to default location if not found
 def filein (fname):
     numlines=0
@@ -137,6 +138,8 @@ def lslin(invars,invar):
 #START DATA INPUT
 #give it just a number n, will find files cn.txt, bn.txt, mn.txt, icn.txt, btext and bxy
 fast=input('\n ONLY NUMBER n and I will find cn.txt, etc. (#/a, Def=a)')
+# For auto entry comment above and uncomment below with desired value as string
+#fast="111"
 if fast.isdigit():
     org=os.getcwd()
     #go to ./"data_files/"+fast+"/" to find data files 
@@ -251,7 +254,7 @@ z=np.array([ica for i in range (numdata)])
 #intial holding values 
 hold=0
 jfix=3
-jvalue=0
+jvalue=.6
 #READY TO PASS ON DATA----------------------------------------------------------
 #wrap parameters to pass into function 
 pass_data.numdata=numdata
@@ -293,6 +296,7 @@ pass_data.avgneg=0
 pass_data.avgpos=0
 pass_data.avg=0
 #this stuff to call data_3.py and make PLOTS!
+
 #FIRST LET'S CHECK INPUT THEN LATER DO THE CALL------------
 zzz=App()
 #FIRST LET'S CHECK INPUT THEN LATER DO THE CALL------------
