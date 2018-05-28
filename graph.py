@@ -6,11 +6,11 @@ Created on Sat Feb 17 12:04:06 2018
 @author: launy
 """
 import data
-from indigoclass_V_3efix import *
-from indigo_V_3efix import *
+from violetclass import *
+from violet import *
 import matplotlib.pyplot as plt
-rang=14
-#rang=100
+rang=100
+#rang=1000
 storev=[0] * rang
 storec=[0] * rang
 
@@ -19,8 +19,8 @@ class CG:
         self.data = data
     def loop(pass_data):
         pass_data.hold=1
-        pass_data.jvalue = 0.86
-        pass_data.jfix=0
+        pass_data.jvalue = 0.0
+        pass_data.jfix=2
         
         for i in range(rang):
             #zzz.recalculate(pass_data) make the gui recalculate 
@@ -40,7 +40,10 @@ class CG:
                 pass_data.jvalue += 0.01
            
 class plot:
-    def plot(x,y):
+    def plot(storec,storev):
+       matplotlib.rcParams.update({'font.size': 18})
        plt.plot(x,y,color='k',marker='o',markerfacecolor='r')
+       plt.xlabel('Variable  being held constant at value')
+       plt.ylabel('Sum of positive and negative values')
        plt.show()
 run=CG.loop(pass_data)
