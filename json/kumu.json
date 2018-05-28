@@ -1,0 +1,1829 @@
+{
+  "version": 1,
+  "name": "Sustainable Peace",
+  "description": "synthesizing the science and visualizing the core dynamics of sustainable peace ",
+  "proxyImages": true,
+  "defaultMap": "map-DyNHHBTx",
+  "defaultPerspective": null,
+  "attributeRelevance": {},
+  "attributes": [
+    {
+      "_id": "attr-YJC64myB",
+      "name": "Connection Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [
+        "+",
+        "-"
+      ],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-pOeJCueA",
+      "name": "Description",
+      "format": "text",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "none",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-7nLKDIqw",
+      "name": "Element Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-7qtyWXPZ",
+      "name": "Label",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-HUi0oMAB",
+      "name": "Loop Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-HJKmWRvK",
+      "name": "Tags",
+      "format": "string",
+      "private": false,
+      "limit": "none",
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    }
+  ],
+  "elements": [
+    {
+      "_id": "elem-4zvswKCj",
+      "attributes": {
+        "label": "Acceptance of peaceful, nonviolent methods of parenting"
+      }
+    },
+    {
+      "_id": "elem-5KWhnxs9",
+      "attributes": {
+        "label": "Effectiveness of cooperative structures"
+      }
+    },
+    {
+      "_id": "elem-61PtJ9ot",
+      "attributes": {
+        "label": "Availability of well-specified language for peacefulness"
+      }
+    },
+    {
+      "_id": "elem-7Q3jkP0o",
+      "attributes": {
+        "label": "con"
+      }
+    },
+    {
+      "_id": "elem-8DGp1m3d",
+      "attributes": {
+        "label": "Effectiveness of cross-cutting structures/ties"
+      }
+    },
+    {
+      "_id": "elem-8wiWP99h",
+      "attributes": {
+        "label": "Promotive intergroup normative pressures"
+      }
+    },
+    {
+      "_id": "elem-9SGHE0z9",
+      "attributes": {
+        "label": "Positive intergroup reciprocity"
+      }
+    },
+    {
+      "_id": "elem-CIDpRRKC",
+      "attributes": {
+        "label": "Positive intergroup History"
+      }
+    },
+    {
+      "_id": "elem-ClGW53f5",
+      "attributes": {
+        "label": "Degree of socialization of compassionate, tolerant peaceful and inclusive intergroup values"
+      }
+    },
+    {
+      "_id": "elem-G9G1AlHj",
+      "attributes": {
+        "label": "Degree to which basic needs are satisfied"
+      }
+    },
+    {
+      "_id": "elem-HrwJYJbj",
+      "attributes": {
+        "label": "Authoritativeness of accurate & inclusive historical accounts of past intergroup encounters"
+      }
+    },
+    {
+      "_id": "elem-KXE4CBuj",
+      "attributes": {
+        "label": "Degree to which complex & overarching identities are emphasized in identity development"
+      }
+    },
+    {
+      "_id": "elem-MQ8tqOvO",
+      "attributes": {
+        "label": "Conspicuousness of ceremonies & symbols that honor and celebrate peace"
+      }
+    },
+    {
+      "_id": "elem-PSYIQ5Bs",
+      "attributes": {
+        "label": "Degree to which media offer accurate, nuanced accounts of all incidents related to intergroup relations"
+      }
+    },
+    {
+      "_id": "elem-QX04lUEV",
+      "attributes": {
+        "label": "Effectiveness of regional organizations that support peace"
+      }
+    },
+    {
+      "_id": "elem-REXeHl9W",
+      "attributes": {
+        "label": "Strength of constructive intergroup conflict resolution mechanisms"
+      }
+    },
+    {
+      "_id": "elem-RTlARGLT",
+      "attributes": {
+        "label": "Competitive structures"
+      }
+    },
+    {
+      "_id": "elem-RYqpyHZa",
+      "attributes": {
+        "label": "Negative intergroup reciprocity"
+      }
+    },
+    {
+      "_id": "elem-SGmvCeLX",
+      "attributes": {
+        "label": "Degree to which information flows freely & openly for members of all groups"
+      }
+    },
+    {
+      "_id": "elem-V6deT5yO",
+      "attributes": {
+        "label": "Degree to which leaders and/or high status members of society model peaceful values & constructive conflict resolution"
+      }
+    },
+    {
+      "_id": "elem-Vgt0n4Ep",
+      "attributes": {
+        "label": "Positive intergroup goals & expectations"
+      }
+    },
+    {
+      "_id": "elem-WSrs4osT",
+      "attributes": {
+        "label": "Negative intergroup goals & expectations"
+      }
+    },
+    {
+      "_id": "elem-XTH3R8VX",
+      "attributes": {
+        "label": "Access to therapeutic healing processes for addressing past incidents of intergroup trauma"
+      }
+    },
+    {
+      "_id": "elem-ZDCjsFNL",
+      "attributes": {
+        "label": "Effectiveness & resilience of pro-peace civil society"
+      }
+    },
+    {
+      "_id": "elem-bfM0uS4z",
+      "attributes": {
+        "label": "Strength of fair, transparent, accessible forms of procedural and distributive justice for members of all groups"
+      }
+    },
+    {
+      "_id": "elem-ch3NeXcL",
+      "attributes": {
+        "label": "Ability of rule of law to guarantee safety & security for members of all groups, particularly women & youth"
+      }
+    },
+    {
+      "_id": "elem-d3JHKsrk",
+      "attributes": {
+        "label": "Respect for gender equality, rights & norms"
+      }
+    },
+    {
+      "_id": "elem-gF4Gpdkn",
+      "attributes": {
+        "label": "Commitment to peace education in primary & secondary schools"
+      }
+    },
+    {
+      "_id": "elem-ipS2MaHz",
+      "attributes": {
+        "label": "Equitability of opportunity structures for members of different groups"
+      }
+    },
+    {
+      "_id": "elem-kq4nrpI1",
+      "attributes": {
+        "label": "resilie"
+      }
+    },
+    {
+      "_id": "elem-kzZJcBXC",
+      "attributes": {
+        "label": "Negative intergroup history"
+      }
+    },
+    {
+      "_id": "elem-l5tL2HdA",
+      "attributes": {
+        "label": "Strength of social norms/taboos against violence"
+      }
+    },
+    {
+      "_id": "elem-m3wHzVIN",
+      "attributes": {
+        "label": "Strength & enforceability of international norms regarding territorial acquisition, minority succession & decolonization"
+      }
+    },
+    {
+      "_id": "elem-o5FmxwKc",
+      "attributes": {
+        "label": "Presence & effectiveness of early warning systems that prevent intergroup encounters"
+      }
+    },
+    {
+      "_id": "elem-qHxf3CpW",
+      "attributes": {
+        "label": "Equality"
+      }
+    },
+    {
+      "_id": "elem-rHXHSPoq",
+      "attributes": {
+        "label": "Commitment to forms of good governance that emphasize unity, integrity & fairness of members of all groups"
+      }
+    },
+    {
+      "_id": "elem-rtP4JMlp",
+      "attributes": {
+        "label": "Degree of minority inclusion, and respect for their rights & norms"
+      }
+    },
+    {
+      "_id": "elem-tHpcZk7K",
+      "attributes": {
+        "label": "Contrient intergroup normative pressures"
+      }
+    },
+    {
+      "_id": "elem-tJ1OA6RA",
+      "attributes": {
+        "label": "Level of community trust & resilience"
+      }
+    },
+    {
+      "_id": "elem-tzTdXvMj",
+      "attributes": {
+        "label": "Degree to which a well-specified vision of what constitutes peacefulness is present & shared"
+      }
+    },
+    {
+      "_id": "elem-zqz9rBdi",
+      "attributes": {
+        "label": "Degree to which group & national identities emphasize peacefulness"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "_id": "conn-0HchrCMO",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ClGW53f5",
+      "to": "elem-4zvswKCj"
+    },
+    {
+      "_id": "conn-0bmV1z0q",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-V6deT5yO",
+      "to": "elem-ClGW53f5"
+    },
+    {
+      "_id": "conn-0pvmpL9Z",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-5KWhnxs9",
+      "to": "elem-tJ1OA6RA"
+    },
+    {
+      "_id": "conn-0xNqG3gN",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ClGW53f5",
+      "to": "elem-tzTdXvMj"
+    },
+    {
+      "_id": "conn-2QSBoiBp",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-CIDpRRKC",
+      "to": "elem-kzZJcBXC"
+    },
+    {
+      "_id": "conn-2lTagJxf",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-RTlARGLT",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-2vRniwI7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-RYqpyHZa",
+      "to": "elem-kzZJcBXC"
+    },
+    {
+      "_id": "conn-3zl3VfMi",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-HrwJYJbj",
+      "to": "elem-CIDpRRKC"
+    },
+    {
+      "_id": "conn-44Vd9Xte",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-d3JHKsrk",
+      "to": "elem-qHxf3CpW"
+    },
+    {
+      "_id": "conn-4ZDq7R19",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-gF4Gpdkn",
+      "to": "elem-ClGW53f5"
+    },
+    {
+      "_id": "conn-6LlipHk7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-KXE4CBuj",
+      "to": "elem-REXeHl9W"
+    },
+    {
+      "_id": "conn-6OqTiEBZ",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-5KWhnxs9",
+      "to": "elem-bfM0uS4z"
+    },
+    {
+      "_id": "conn-6qcDACnv",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-9SGHE0z9",
+      "to": "elem-tJ1OA6RA"
+    },
+    {
+      "_id": "conn-701vayND",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-8DGp1m3d",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-97JTn3ij",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-REXeHl9W",
+      "to": "elem-tHpcZk7K"
+    },
+    {
+      "_id": "conn-9Jz7sjkL",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tHpcZk7K",
+      "to": "elem-WSrs4osT"
+    },
+    {
+      "_id": "conn-9LxNf0Ld",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-rtP4JMlp",
+      "to": "elem-qHxf3CpW"
+    },
+    {
+      "_id": "conn-AXPON7Ql",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-9SGHE0z9",
+      "to": "elem-Vgt0n4Ep"
+    },
+    {
+      "_id": "conn-Am4leq4G",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Vgt0n4Ep",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-B50qF3Ib",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-zqz9rBdi",
+      "to": "elem-tzTdXvMj"
+    },
+    {
+      "_id": "conn-BIOz1mhL",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-QX04lUEV",
+      "to": "elem-8wiWP99h"
+    },
+    {
+      "_id": "conn-C5JbQB3D",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-kzZJcBXC",
+      "to": "elem-WSrs4osT"
+    },
+    {
+      "_id": "conn-CRc2Ncaw",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ZDCjsFNL",
+      "to": "elem-bfM0uS4z"
+    },
+    {
+      "_id": "conn-Cz2HhUg2",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-qHxf3CpW",
+      "to": "elem-8wiWP99h"
+    },
+    {
+      "_id": "conn-Dgq3WFws",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-8wiWP99h",
+      "to": "elem-Vgt0n4Ep"
+    },
+    {
+      "_id": "conn-EGfjECBg",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-WSrs4osT",
+      "to": "elem-tHpcZk7K"
+    },
+    {
+      "_id": "conn-EK6YcVgf",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tJ1OA6RA",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-EnLZOEhc",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-kzZJcBXC",
+      "to": "elem-CIDpRRKC"
+    },
+    {
+      "_id": "conn-FundXWwu",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-PSYIQ5Bs",
+      "to": "elem-CIDpRRKC"
+    },
+    {
+      "_id": "conn-FyOcXJVo",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-RYqpyHZa",
+      "to": "elem-WSrs4osT"
+    },
+    {
+      "_id": "conn-GHfvCpfM",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-bfM0uS4z",
+      "to": "elem-rHXHSPoq"
+    },
+    {
+      "_id": "conn-GN48sVDm",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-61PtJ9ot",
+      "to": "elem-REXeHl9W"
+    },
+    {
+      "_id": "conn-GdTOTqFQ",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-8wiWP99h",
+      "to": "elem-CIDpRRKC"
+    },
+    {
+      "_id": "conn-Hd1fjFWu",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-HrwJYJbj",
+      "to": "elem-kzZJcBXC"
+    },
+    {
+      "_id": "conn-JUkoSemS",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-RYqpyHZa",
+      "to": "elem-tHpcZk7K"
+    },
+    {
+      "_id": "conn-KyOtAf5G",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-m3wHzVIN",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-LCaQ2QST",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-CIDpRRKC",
+      "to": "elem-8wiWP99h"
+    },
+    {
+      "_id": "conn-M8oCV3l7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-5KWhnxs9",
+      "to": "elem-8wiWP99h"
+    },
+    {
+      "_id": "conn-NW2LqKaW",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-kzZJcBXC",
+      "to": "elem-tHpcZk7K"
+    },
+    {
+      "_id": "conn-OHIU8Gc2",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-5KWhnxs9",
+      "to": "elem-REXeHl9W"
+    },
+    {
+      "_id": "conn-OU0g8zy1",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ClGW53f5",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-P2GH4L7K",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-RYqpyHZa",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-QReiybnT",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tHpcZk7K",
+      "to": "elem-kzZJcBXC"
+    },
+    {
+      "_id": "conn-Rq0QW7wj",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ipS2MaHz",
+      "to": "elem-qHxf3CpW"
+    },
+    {
+      "_id": "conn-RqfhWxlH",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-rHXHSPoq",
+      "to": "elem-bfM0uS4z"
+    },
+    {
+      "_id": "conn-SBL169VE",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-XTH3R8VX",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-SSvvSMxN",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-PSYIQ5Bs",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-Sb6hVWVR",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-bfM0uS4z",
+      "to": "elem-G9G1AlHj"
+    },
+    {
+      "_id": "conn-SrRY2Qtv",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tHpcZk7K",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-TUgTuGeM",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-qHxf3CpW",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-VIonKVFV",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-CIDpRRKC",
+      "to": "elem-Vgt0n4Ep"
+    },
+    {
+      "_id": "conn-Vn4m9Lyq",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-9SGHE0z9",
+      "to": "elem-kq4nrpI1"
+    },
+    {
+      "_id": "conn-WGovrrFs",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-4zvswKCj",
+      "to": "elem-ClGW53f5"
+    },
+    {
+      "_id": "conn-WnxIBpVd",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ch3NeXcL",
+      "to": "elem-REXeHl9W"
+    },
+    {
+      "_id": "conn-XY5kfJQh",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-9SGHE0z9",
+      "to": "elem-CIDpRRKC"
+    },
+    {
+      "_id": "conn-YGTrIn8W",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MQ8tqOvO",
+      "to": "elem-REXeHl9W"
+    },
+    {
+      "_id": "conn-YYQRZ5AF",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-REXeHl9W",
+      "to": "elem-bfM0uS4z"
+    },
+    {
+      "_id": "conn-ZbG1P8OF",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-kzZJcBXC",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-acSKvYlF",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-l5tL2HdA",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-actgDHSC",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tzTdXvMj",
+      "to": "elem-4zvswKCj"
+    },
+    {
+      "_id": "conn-bfLKNJYq",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-RYqpyHZa",
+      "to": "elem-tHpcZk7K"
+    },
+    {
+      "_id": "conn-c17wjDa2",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tzTdXvMj",
+      "to": "elem-zqz9rBdi"
+    },
+    {
+      "_id": "conn-dYzXkEK4",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-kzZJcBXC",
+      "to": "elem-WSrs4osT"
+    },
+    {
+      "_id": "conn-de1Jp1YT",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-SGmvCeLX",
+      "to": "elem-PSYIQ5Bs"
+    },
+    {
+      "_id": "conn-e6Gd50Oo",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-o5FmxwKc",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-eRKODeq9",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Vgt0n4Ep",
+      "to": "elem-8wiWP99h"
+    },
+    {
+      "_id": "conn-f4Q1JBgZ",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ch3NeXcL",
+      "to": "elem-G9G1AlHj"
+    },
+    {
+      "_id": "conn-fIHt3Taa",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-7Q3jkP0o",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-fRCA2YUF",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tzTdXvMj",
+      "to": "elem-gF4Gpdkn"
+    },
+    {
+      "_id": "conn-hP3YYGyY",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ClGW53f5",
+      "to": "elem-REXeHl9W"
+    },
+    {
+      "_id": "conn-i23dcJe9",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-WSrs4osT",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-iZR0yw1n",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ClGW53f5",
+      "to": "elem-V6deT5yO"
+    },
+    {
+      "_id": "conn-jQ5dRF4A",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-m3wHzVIN",
+      "to": "elem-tHpcZk7K"
+    },
+    {
+      "_id": "conn-llDFPCE2",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tzTdXvMj",
+      "to": "elem-Vgt0n4Ep"
+    },
+    {
+      "_id": "conn-lpFraSgZ",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-9SGHE0z9",
+      "to": "elem-8wiWP99h"
+    },
+    {
+      "_id": "conn-mSJuhyx9",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-WSrs4osT",
+      "to": "elem-Vgt0n4Ep"
+    },
+    {
+      "_id": "conn-nH4l806g",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-XTH3R8VX",
+      "to": "elem-kzZJcBXC"
+    },
+    {
+      "_id": "conn-nPWgqs55",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-RTlARGLT",
+      "to": "elem-bfM0uS4z"
+    },
+    {
+      "_id": "conn-pCKmvCqH",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tJ1OA6RA",
+      "to": "elem-5KWhnxs9"
+    },
+    {
+      "_id": "conn-pDEwn8nh",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Vgt0n4Ep",
+      "to": "elem-WSrs4osT"
+    },
+    {
+      "_id": "conn-qwAxM9Ez",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-CIDpRRKC",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-sMsj3CcJ",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-9SGHE0z9",
+      "to": "elem-RYqpyHZa"
+    },
+    {
+      "_id": "conn-ufCIIZc2",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-8wiWP99h",
+      "to": "elem-9SGHE0z9"
+    },
+    {
+      "_id": "conn-w8bU54aR",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-l5tL2HdA",
+      "to": "elem-ClGW53f5"
+    },
+    {
+      "_id": "conn-xzLG5m6n",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tzTdXvMj",
+      "to": "elem-ClGW53f5"
+    },
+    {
+      "_id": "conn-zYQ6BeuD",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-tHpcZk7K",
+      "to": "elem-RYqpyHZa"
+    }
+  ],
+  "loops": [],
+  "maps": [
+    {
+      "_id": "map-DyNHHBTx",
+      "name": "SP CLD as of April 2018",
+      "description": "",
+      "scale": 1,
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "defaultPerspective": "pers-M0SqL5Nq",
+      "defaultElementBehavior": "fixed",
+      "defaultConnectionDirection": "directed",
+      "elements": [
+        {
+          "_id": "node-0lbgyAhw",
+          "position": {
+            "x": -993.842602345006,
+            "y": 234.56151600334923
+          },
+          "pinned": true,
+          "element": "elem-HrwJYJbj"
+        },
+        {
+          "_id": "node-0vdkdnqw",
+          "position": {
+            "x": -962.6431902006241,
+            "y": 853.8605253338002
+          },
+          "pinned": true,
+          "element": "elem-REXeHl9W"
+        },
+        {
+          "_id": "node-3gA5YOIL",
+          "position": {
+            "x": -2605.437313013975,
+            "y": -365.15068963033855
+          },
+          "pinned": true,
+          "element": "elem-zqz9rBdi"
+        },
+        {
+          "_id": "node-6ScxUk5e",
+          "position": {
+            "x": -1374.9083014768548,
+            "y": 1261.4856547374986
+          },
+          "pinned": true,
+          "element": "elem-ZDCjsFNL"
+        },
+        {
+          "_id": "node-9T31fCdz",
+          "position": {
+            "x": -1058.7115335153803,
+            "y": -55.53987247157954
+          },
+          "pinned": true,
+          "element": "elem-l5tL2HdA"
+        },
+        {
+          "_id": "node-9dmnpu4A",
+          "position": {
+            "x": 666.0695027967414,
+            "y": 367.6494857304987
+          },
+          "pinned": true,
+          "element": "elem-WSrs4osT"
+        },
+        {
+          "_id": "node-ABPsnkeY",
+          "position": {
+            "x": 902.330936804324,
+            "y": 655.6964878404209
+          },
+          "pinned": true,
+          "element": "elem-8DGp1m3d"
+        },
+        {
+          "_id": "node-CRDZiT0F",
+          "position": {
+            "x": -1382.0484041772904,
+            "y": 260.5402040234834
+          },
+          "pinned": true,
+          "element": "elem-RTlARGLT"
+        },
+        {
+          "_id": "node-DAm5psU0",
+          "position": {
+            "x": -19.390397171427676,
+            "y": -316.0360114970768
+          },
+          "pinned": true,
+          "element": "elem-8wiWP99h"
+        },
+        {
+          "_id": "node-DMAQ60o4",
+          "position": {
+            "x": -1353.0137500138947,
+            "y": 641.8114683848511
+          },
+          "pinned": true,
+          "element": "elem-G9G1AlHj"
+        },
+        {
+          "_id": "node-DiLupwTW",
+          "position": {
+            "x": -593.9186142114116,
+            "y": 1232.339661692918
+          },
+          "pinned": true,
+          "element": "elem-61PtJ9ot"
+        },
+        {
+          "_id": "node-EPQ035qm",
+          "position": {
+            "x": -1347.2372681891536,
+            "y": 1098.1982064047397
+          },
+          "pinned": true,
+          "element": "elem-bfM0uS4z"
+        },
+        {
+          "_id": "node-HFVDMtXp",
+          "position": {
+            "x": -25.768092189564527,
+            "y": 51.735288582525264
+          },
+          "pinned": true,
+          "element": "elem-RYqpyHZa"
+        },
+        {
+          "_id": "node-ICPH0oFp",
+          "position": {
+            "x": 1010.1489164792785,
+            "y": -116.74771462889034
+          },
+          "pinned": true,
+          "element": "elem-qHxf3CpW"
+        },
+        {
+          "_id": "node-ICVh3JAS",
+          "position": {
+            "x": -2.976937405476436,
+            "y": 479.24211862460413
+          },
+          "pinned": true,
+          "element": "elem-tHpcZk7K"
+        },
+        {
+          "_id": "node-IPIXABe8",
+          "position": {
+            "x": -1275.0947898580737,
+            "y": -436.91003297012486
+          },
+          "pinned": true,
+          "element": "elem-PSYIQ5Bs"
+        },
+        {
+          "_id": "node-IpzNY3s7",
+          "position": {
+            "x": 1228.3782766332092,
+            "y": 964.8118636765057
+          },
+          "pinned": true,
+          "element": "elem-o5FmxwKc"
+        },
+        {
+          "_id": "node-JImgMiBN",
+          "position": {
+            "x": 1429.2191357245329,
+            "y": -39.08832070440903
+          },
+          "pinned": true,
+          "element": "elem-ipS2MaHz"
+        },
+        {
+          "_id": "node-KsmoPrq3",
+          "position": {
+            "x": -356.5595889163245,
+            "y": 646.7302015559002
+          },
+          "pinned": true,
+          "element": "elem-XTH3R8VX"
+        },
+        {
+          "_id": "node-NWqPqFI2",
+          "position": {
+            "x": 657.8559595967348,
+            "y": -249.0432818645774
+          },
+          "pinned": true,
+          "element": "elem-Vgt0n4Ep"
+        },
+        {
+          "_id": "node-NiMHbrdP",
+          "position": {
+            "x": 1223.6104088913712,
+            "y": 123.62008916264983
+          },
+          "pinned": true,
+          "element": "elem-m3wHzVIN"
+        },
+        {
+          "_id": "node-NkjwnjUB",
+          "position": {
+            "x": -1722.7537265380427,
+            "y": 1110.0027912078285
+          },
+          "pinned": true,
+          "element": "elem-rHXHSPoq"
+        },
+        {
+          "_id": "node-TDRpy64C",
+          "position": {
+            "x": -541.7193689113197,
+            "y": 349.9150211937387
+          },
+          "pinned": true,
+          "element": "elem-kzZJcBXC"
+        },
+        {
+          "_id": "node-TybmXHXg",
+          "position": {
+            "x": -1814.437145947462,
+            "y": 310.61052757297807
+          },
+          "pinned": true,
+          "element": "elem-KXE4CBuj"
+        },
+        {
+          "_id": "node-UwUeNOyY",
+          "position": {
+            "x": -528.0166402192935,
+            "y": -282.36891362717057
+          },
+          "pinned": true,
+          "element": "elem-CIDpRRKC"
+        },
+        {
+          "_id": "node-ZqMo86Mh",
+          "position": {
+            "x": 1382.8950124087598,
+            "y": -231.48892234801113
+          },
+          "pinned": true,
+          "element": "elem-rtP4JMlp"
+        },
+        {
+          "_id": "node-adSX7pMt",
+          "position": {
+            "x": -2291.531374283243,
+            "y": -1282.0573000403954
+          },
+          "pinned": true,
+          "element": "elem-tzTdXvMj"
+        },
+        {
+          "_id": "node-d5MtjZpS",
+          "position": {
+            "x": -1812.9181849651638,
+            "y": 790.7215154995288
+          },
+          "pinned": true,
+          "element": "elem-ch3NeXcL"
+        },
+        {
+          "_id": "node-fHQ8N35l",
+          "position": {
+            "x": -5.853620355140549,
+            "y": -640.2474575005328
+          },
+          "pinned": true,
+          "element": "elem-QX04lUEV"
+        },
+        {
+          "_id": "node-fpzDwaJH",
+          "position": {
+            "x": -2394.415004316973,
+            "y": -105.39835980759241
+          },
+          "pinned": true,
+          "element": "elem-V6deT5yO"
+        },
+        {
+          "_id": "node-gXKzD0MV",
+          "position": {
+            "x": -2093.1023923428133,
+            "y": 225.77424630752586
+          },
+          "pinned": true,
+          "element": "elem-4zvswKCj"
+        },
+        {
+          "_id": "node-n0ljL1mM",
+          "position": {
+            "x": -812.9822597245175,
+            "y": -666.2203262101164
+          },
+          "pinned": true,
+          "element": "elem-5KWhnxs9"
+        },
+        {
+          "_id": "node-n9wQMlnS",
+          "position": {
+            "x": -292.0676079880515,
+            "y": 1020.8991951166422
+          },
+          "pinned": true,
+          "element": "elem-MQ8tqOvO"
+        },
+        {
+          "_id": "node-oBjleEh2",
+          "position": {
+            "x": -28.617776857377415,
+            "y": -65.58053624989265
+          },
+          "pinned": true,
+          "element": "elem-9SGHE0z9"
+        },
+        {
+          "_id": "node-sqevnVAt",
+          "position": {
+            "x": -1399.2461115813608,
+            "y": -1030.6420903136857
+          },
+          "pinned": true,
+          "element": "elem-tJ1OA6RA"
+        },
+        {
+          "_id": "node-tBDZlE4m",
+          "position": {
+            "x": -1453.2678941298152,
+            "y": -750.5197045056301
+          },
+          "pinned": true,
+          "element": "elem-SGmvCeLX"
+        },
+        {
+          "_id": "node-uSMx89UI",
+          "position": {
+            "x": 1161.6508063565711,
+            "y": -396.4085189746445
+          },
+          "pinned": true,
+          "element": "elem-d3JHKsrk"
+        },
+        {
+          "_id": "node-urSM8FrE",
+          "position": {
+            "x": -1487.286229705619,
+            "y": -267.02305348574083
+          },
+          "pinned": true,
+          "element": "elem-gF4Gpdkn"
+        },
+        {
+          "_id": "node-xoK2htY7",
+          "position": {
+            "x": -1572.8102731451436,
+            "y": 21.506829566099803
+          },
+          "pinned": true,
+          "element": "elem-ClGW53f5"
+        }
+      ],
+      "connections": [
+        {
+          "_id": "edge-1IL0u8cS",
+          "curvature": 0.43041915448307505,
+          "connection": "conn-P2GH4L7K"
+        },
+        {
+          "_id": "edge-3MRLODro",
+          "connection": "conn-Cz2HhUg2"
+        },
+        {
+          "_id": "edge-421TvlHD",
+          "curvature": 0.28455792137560126,
+          "connection": "conn-i23dcJe9"
+        },
+        {
+          "_id": "edge-4xeNIBCB",
+          "connection": "conn-4ZDq7R19"
+        },
+        {
+          "_id": "edge-5OASUKFQ",
+          "connection": "conn-xzLG5m6n"
+        },
+        {
+          "_id": "edge-7BCbV5R8",
+          "connection": "conn-Rq0QW7wj"
+        },
+        {
+          "_id": "edge-7QG45Hvz",
+          "connection": "conn-OHIU8Gc2"
+        },
+        {
+          "_id": "edge-7UKZzvG6",
+          "curvature": 0.23847559486027478,
+          "connection": "conn-pDEwn8nh"
+        },
+        {
+          "_id": "edge-8JB80lwS",
+          "connection": "conn-2QSBoiBp"
+        },
+        {
+          "_id": "edge-93QF1Vh6",
+          "curvature": -0.1504537941399216,
+          "connection": "conn-acSKvYlF"
+        },
+        {
+          "_id": "edge-94SyATPf",
+          "connection": "conn-llDFPCE2"
+        },
+        {
+          "_id": "edge-9RS11Sv6",
+          "connection": "conn-YYQRZ5AF"
+        },
+        {
+          "_id": "edge-9wW2KP5k",
+          "curvature": 0.26568539092216437,
+          "connection": "conn-mSJuhyx9"
+        },
+        {
+          "_id": "edge-ACN2U5vI",
+          "connection": "conn-EnLZOEhc"
+        },
+        {
+          "_id": "edge-BCZRJqjf",
+          "connection": "conn-SSvvSMxN"
+        },
+        {
+          "_id": "edge-BVXRONVy",
+          "connection": "conn-WGovrrFs"
+        },
+        {
+          "_id": "edge-Be0rlcnQ",
+          "connection": "conn-97JTn3ij"
+        },
+        {
+          "_id": "edge-CIuP0ViY",
+          "connection": "conn-lpFraSgZ"
+        },
+        {
+          "_id": "edge-CPUMnQBs",
+          "connection": "conn-EK6YcVgf"
+        },
+        {
+          "_id": "edge-CSvnaKu7",
+          "curvature": 0.08820826159100499,
+          "connection": "conn-0xNqG3gN"
+        },
+        {
+          "_id": "edge-Cux2Ktp2",
+          "connection": "conn-M8oCV3l7"
+        },
+        {
+          "_id": "edge-DLqxx4td",
+          "connection": "conn-2lTagJxf"
+        },
+        {
+          "_id": "edge-EYXTUDU9",
+          "connection": "conn-dYzXkEK4"
+        },
+        {
+          "_id": "edge-F4pCgkDs",
+          "connection": "conn-3zl3VfMi"
+        },
+        {
+          "_id": "edge-G6fDQgLT",
+          "connection": "conn-0bmV1z0q"
+        },
+        {
+          "_id": "edge-GIUYThKK",
+          "connection": "conn-ufCIIZc2"
+        },
+        {
+          "_id": "edge-I9qTB4WH",
+          "connection": "conn-nPWgqs55"
+        },
+        {
+          "_id": "edge-IILSLOg0",
+          "connection": "conn-C5JbQB3D"
+        },
+        {
+          "_id": "edge-JBxYkojv",
+          "connection": "conn-w8bU54aR"
+        },
+        {
+          "_id": "edge-JRT1PjqD",
+          "curvature": 1.1711241591014152,
+          "connection": "conn-sMsj3CcJ"
+        },
+        {
+          "_id": "edge-JhCKv3uy",
+          "connection": "conn-EGfjECBg"
+        },
+        {
+          "_id": "edge-M1LQOKPQ",
+          "connection": "conn-TUgTuGeM"
+        },
+        {
+          "_id": "edge-M1u9I9Bd",
+          "connection": "conn-6qcDACnv"
+        },
+        {
+          "_id": "edge-Ma4hazJB",
+          "connection": "conn-zYQ6BeuD"
+        },
+        {
+          "_id": "edge-O0b51fwm",
+          "connection": "conn-OU0g8zy1"
+        },
+        {
+          "_id": "edge-P2F84lDz",
+          "connection": "conn-Dgq3WFws"
+        },
+        {
+          "_id": "edge-QgKbKBGn",
+          "connection": "conn-BIOz1mhL"
+        },
+        {
+          "_id": "edge-RRCaMuKS",
+          "connection": "conn-9LxNf0Ld"
+        },
+        {
+          "_id": "edge-TWr7Zgfm",
+          "connection": "conn-YGTrIn8W"
+        },
+        {
+          "_id": "edge-TfaVipl8",
+          "connection": "conn-FundXWwu"
+        },
+        {
+          "_id": "edge-U8hMgOrr",
+          "connection": "conn-eRKODeq9"
+        },
+        {
+          "_id": "edge-W540kH0W",
+          "connection": "conn-6LlipHk7"
+        },
+        {
+          "_id": "edge-Xi7mfoNS",
+          "connection": "conn-44Vd9Xte"
+        },
+        {
+          "_id": "edge-YNQVuJxf",
+          "connection": "conn-e6Gd50Oo"
+        },
+        {
+          "_id": "edge-Z5qY9jmM",
+          "connection": "conn-LCaQ2QST"
+        },
+        {
+          "_id": "edge-Z6DyQx8r",
+          "connection": "conn-6OqTiEBZ"
+        },
+        {
+          "_id": "edge-ac1B8Wa4",
+          "connection": "conn-VIonKVFV"
+        },
+        {
+          "_id": "edge-bMqqJM2f",
+          "connection": "conn-NW2LqKaW"
+        },
+        {
+          "_id": "edge-cBOJdmj6",
+          "connection": "conn-c17wjDa2"
+        },
+        {
+          "_id": "edge-cEP06o5x",
+          "curvature": 0.2919717806324071,
+          "connection": "conn-actgDHSC"
+        },
+        {
+          "_id": "edge-dpcTTIZY",
+          "connection": "conn-QReiybnT"
+        },
+        {
+          "_id": "edge-f1Zqw0ly",
+          "connection": "conn-XY5kfJQh"
+        },
+        {
+          "_id": "edge-f7pFkGRR",
+          "connection": "conn-f4Q1JBgZ"
+        },
+        {
+          "_id": "edge-g7mmgYyW",
+          "connection": "conn-ZbG1P8OF"
+        },
+        {
+          "_id": "edge-gJPFC4QN",
+          "connection": "conn-fRCA2YUF"
+        },
+        {
+          "_id": "edge-gN7jZoTO",
+          "connection": "conn-de1Jp1YT"
+        },
+        {
+          "_id": "edge-gfGUs8Bv",
+          "connection": "conn-0HchrCMO"
+        },
+        {
+          "_id": "edge-gjdzp80w",
+          "connection": "conn-AXPON7Ql"
+        },
+        {
+          "_id": "edge-gu5ZRaZR",
+          "connection": "conn-CRc2Ncaw"
+        },
+        {
+          "_id": "edge-hiHSMrUV",
+          "connection": "conn-0pvmpL9Z"
+        },
+        {
+          "_id": "edge-hmOVl0bs",
+          "connection": "conn-JUkoSemS"
+        },
+        {
+          "_id": "edge-i15fh6JL",
+          "connection": "conn-Sb6hVWVR"
+        },
+        {
+          "_id": "edge-jAEHp8uB",
+          "connection": "conn-KyOtAf5G"
+        },
+        {
+          "_id": "edge-jCDDdTsC",
+          "connection": "conn-nH4l806g"
+        },
+        {
+          "_id": "edge-jKnjBUIw",
+          "connection": "conn-GN48sVDm"
+        },
+        {
+          "_id": "edge-kKoZ8zd0",
+          "connection": "conn-701vayND"
+        },
+        {
+          "_id": "edge-kbSLKpNx",
+          "connection": "conn-FyOcXJVo"
+        },
+        {
+          "_id": "edge-nwuUOtwo",
+          "connection": "conn-WnxIBpVd"
+        },
+        {
+          "_id": "edge-pClZpeG5",
+          "connection": "conn-B50qF3Ib"
+        },
+        {
+          "_id": "edge-pkinqRxV",
+          "connection": "conn-jQ5dRF4A"
+        },
+        {
+          "_id": "edge-psaN0zbd",
+          "connection": "conn-qwAxM9Ez"
+        },
+        {
+          "_id": "edge-pv1HAoPv",
+          "connection": "conn-2vRniwI7"
+        },
+        {
+          "_id": "edge-q8rhOGOR",
+          "connection": "conn-GHfvCpfM"
+        },
+        {
+          "_id": "edge-rZxTHRdn",
+          "connection": "conn-9Jz7sjkL"
+        },
+        {
+          "_id": "edge-rcxYHNK7",
+          "connection": "conn-RqfhWxlH"
+        },
+        {
+          "_id": "edge-t0h0sNpg",
+          "connection": "conn-GdTOTqFQ"
+        },
+        {
+          "_id": "edge-tI4lGghK",
+          "curvature": 0.2352605652055427,
+          "connection": "conn-Hd1fjFWu"
+        },
+        {
+          "_id": "edge-vtxDtH14",
+          "connection": "conn-hP3YYGyY"
+        },
+        {
+          "_id": "edge-w6a3nnf9",
+          "connection": "conn-pCKmvCqH"
+        },
+        {
+          "_id": "edge-wFHBb2kS",
+          "connection": "conn-Am4leq4G"
+        },
+        {
+          "_id": "edge-ytyLXuIU",
+          "curvature": 1.4659799117331151,
+          "connection": "conn-iZR0yw1n"
+        }
+      ],
+      "loops": []
+    }
+  ],
+  "perspectives": [
+    {
+      "_id": "pers-M0SqL5Nq",
+      "name": "SP CLD as of April 2018",
+      "style": "@settings {\n  template: causal-loop;\n  cluster: \"Element Type\";\n  same-color: #b9e5a0;\n  connection-color: #b9e5a0;\n  same-label: \"promoting connector\";\n  opposite-label: \"inhibiting connector\";\n  opposite-color: #eb261e;\n  element-color: categorize(\"Element Type\", neon2);\n}\n\nelement#elem-RYqpyHZa, element#elem-kzZJcBXC, element#elem-WSrs4osT {\n  color: #c3161b;\n}\n\nconnection#conn-pDEwn8nh, connection#conn-mSJuhyx9, connection#conn-2QSBoiBp, connection#conn-EnLZOEhc, connection#conn-NW2LqKaW, connection#conn-QReiybnT, connection#conn-9Jz7sjkL, connection#conn-EGfjECBg, connection#conn-sMsj3CcJ, connection#conn-P2GH4L7K {\n  color: #eb261e;\n}\n\nconnection#conn-NW2LqKaW, connection#conn-QReiybnT, connection#conn-9Jz7sjkL, connection#conn-EGfjECBg {\n  color: #b9e5a0;\n}\n\nconnection#conn-SrRY2Qtv, connection#conn-bfLKNJYq {\n  color: #eb261e;\n}\n\nelement#elem-RYqpyHZa, element#elem-kzZJcBXC, element#elem-WSrs4osT {\n  color: #eb261e;\n}\n\nconnection#conn-bfLKNJYq, connection#conn-dYzXkEK4, connection#conn-P2GH4L7K, connection#conn-ZbG1P8OF, connection#conn-2vRniwI7, connection#conn-FyOcXJVo, connection#conn-i23dcJe9 {\n  size: 15;\n}\n\nconnection#conn-EnLZOEhc, connection#conn-mSJuhyx9 {\n  size: 15;\n}\n\nconnection#conn-97JTn3ij {\n  color: #eb261e;\n}\n\nconnection#conn-nPWgqs55 {\n  color: #eb261e;\n}\n\nconnection#conn-701vayND {\n  color: #eb261e;\n}\n\nconnection#conn-e6Gd50Oo {\n  color: #eb261e;\n}\n\nconnection#conn-KyOtAf5G, connection#conn-jQ5dRF4A {\n  color: #eb261e;\n}\n\nconnection#conn-nH4l806g {\n  color: #eb261e;\n}\n\nconnection#conn-acSKvYlF {\n  color: #eb261e;\n}\n\nconnection#conn-Hd1fjFWu {\n  color: #eb261e;\n}\n\nelement#elem-RTlARGLT {\n  color: #eb261e;\n}\n\nelement#elem-tHpcZk7K {\n  color: #eb261e;\n}\n\nconnection#conn-zYQ6BeuD {\n  size: 15;\n}\n\nconnection#conn-JUkoSemS {\n  size: 15;\n}\n\nconnection#conn-QReiybnT, connection#conn-NW2LqKaW, connection#conn-9Jz7sjkL, connection#conn-EGfjECBg {\n  size: 20;\n}\n\nconnection#conn-ZbG1P8OF, connection#conn-2vRniwI7, connection#conn-dYzXkEK4, connection#conn-NW2LqKaW, connection#conn-QReiybnT, connection#conn-zYQ6BeuD, connection#conn-JUkoSemS, connection#conn-9Jz7sjkL, connection#conn-EGfjECBg, connection#conn-i23dcJe9, connection#conn-FyOcXJVo {\n  size: 15;\n}\n\nconnection#conn-EnLZOEhc, connection#conn-P2GH4L7K, connection#conn-mSJuhyx9 {\n  size: 15;\n}\n\n"
+    }
+  ]
+}
