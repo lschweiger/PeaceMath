@@ -91,8 +91,9 @@ from scipy import stats
 import numpy as np
 import random
 import time
+import os,sys
 import data as pass_data
-from tealclass import * #import the METHODS from tealclass.py
+from violetclass import * #import the METHODS from tealclass.py
 
 
 #START OF DEFINED FUNCTIONS----------------------------------------------------

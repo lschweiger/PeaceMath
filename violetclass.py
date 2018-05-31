@@ -494,4 +494,39 @@ class App:
 #         self.canvas=canvas
         canvas.configure(scrollregion=canvas.bbox('all'))
         
-        
+#summing postive and negtive into two seperate arrays  
+#   pass_data.negindex/posindex are not needed
+# to excute run App.sumpn(pass_data)        
+    def sumpn(pass_data):
+        negkeys={} # will be used for get the keys to be used in the summing
+        poskeys={}
+        pass_data.avg=0
+        pass_data.avgpos=0
+        pass_data.avgneg=0
+        for x in range(0,len(pass_data.btextbxydata)):
+            if (pass_data.btextbxydata[x][1]=="gray"):
+                #pass_data.negindex.append(x)
+                pass_data.negfin[x]=pass_data.z[-1][x]
+                negkeys=list(pass_data.negfin.keys())
+            else:
+                #pass_data.posindex.append(x)
+                pass_data.posfin[x]=pass_data.z[-1][x]
+                poskeys=list(pass_data.posfin.keys())
+        #adding the positve and negative values
+        for i in range(0,len(negkeys)):
+            pass_data.sumneg+=pass_data.negfin[negkeys[i]]
+            pass_data.avgneg=(pass_data.sumneg/len(negkeys))
+            if(i==(len(negkeys)-1)): 
+                pass_data.sumneg=0
+                pass_data.negfin={}
+        for j in range(0,len(poskeys)):
+            pass_data.sumpos+=pass_data.posfin[poskeys[j]]
+            
+            pass_data.avgpos=(pass_data.sumpos/len(poskeys))
+            if(j==(len(poskeys)-1)):
+                pass_data.sumpos=0
+                pass_data.posfin={}
+        pass_data.avg=pass_data.avgpos-pass_data.avgneg
+        pass_data.avgpos=0
+        pass_data.avgneg=0
+    

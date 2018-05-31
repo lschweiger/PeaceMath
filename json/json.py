@@ -17,8 +17,8 @@ class Json:
     position={}
     locations=[]
     sortposition={}
+    new=[]
     def __init__(self):
-        self.data = data
         self.Import()
     def Import():
         with open("kumu.json", "r") as read:
@@ -37,6 +37,15 @@ class Json:
                 Json.locations.append(out['maps'][0]['elements'][l]['position'])
                 Json.position[out['maps'][0]['elements'][l]['element']]=Json.locations[l]
             Json.locations=[]
+            remove=out['perspectives'][0]['style']
+            print(remove)
+            
+            for i in remove:
+                #print(i)
+                if (i==""): print(i)
+                #print(i)
+                #new=new.append(i)
+        #print(remove)
     def Sort():
         Json.sortposition=sorted(Json.position.items(),key=operator.itemgetter(0))
 
@@ -45,6 +54,6 @@ def main():
     Json.Sort()
 if __name__=='__main__':
     main()
-    print(Json.sortposition)
-    print(Json.factors)
-    print(Json.connections)
+    #print(Json.sortposition)
+    #print(Json.factors)
+    #print(Json.connections)
