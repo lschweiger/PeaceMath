@@ -25,6 +25,7 @@ import json
 import operator
 
 
+
 class Json:
     factors={}
     connections={}
