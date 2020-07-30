@@ -6,6 +6,8 @@ as a fallback script will look in its root folder for files
 **A GUI for the ordinary differential equation model of the Sustainable Peace Map**
 
 coded in Python 3.4.1 with Tkinter (I am experimenting in Python 3.6.5)
+**Publication of Research**
+https://doi.org/10.1088/1367-2630/ab2a96
 
 **MATHEMATICAL MODEL**
 Liebovitch, LS, Coleman PT, Futran D, Lee D, Lichter T, Burgess N, Maksumov D, and Ripla C. (in press). Modeling the dynamics of sustainable peace. In U. Strawinska-Zanko and L. S. Liebovitch (Eds.), Mathematical Modeling of Social Relationships, New York, NY, Springer.
